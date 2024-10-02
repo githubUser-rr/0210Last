@@ -1,0 +1,15 @@
+release/MoveWorker.o
+release/clsPacketOperation.o
+release/clsPacketWorker.o
+release/clsSearchMapWorker.o
+release/main.o
+release/mainwindow.o
+release/newstructs.o
+release/backProcessCls.o
+release/pcapppacket.o
+release/pPlusnewstructs.o
+release/moc_MoveWorker.o
+release/moc_clsPacketWorker.o
+release/moc_clsSearchMapWorker.o
+release/moc_mainwindow.o
+release/moc_backProcessCls.o
